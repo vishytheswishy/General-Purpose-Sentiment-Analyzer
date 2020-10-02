@@ -28,8 +28,8 @@ The official paper detailing the approach is here
 To detect severity from tweets. You may have a look at this.
 
 DATASETS:
-https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
-https://www.kaggle.com/kazanova/sentiment140
+1. https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
+2. https://www.kaggle.com/kazanova/sentiment140
 
 RESOURCES:
 https://ieeexplore.ieee.org/abstract/document/7427425/
